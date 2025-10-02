@@ -91,7 +91,7 @@ Multiplication Result:
 [  139  154 ]
 ```
 
-## VERSION 2.0 FEATURES
+## NEW FEATURES
 
 ### Dynamic Memory Management
 - **Automatic Allocation:** The program dynamically allocates memory based on entered dimensions
@@ -102,3 +102,4 @@ Multiplication Result:
 - **No Fixed Limit:** Matrices can be any size (limited only by available system memory)
 - **Minimum:** 1x1 element
 - **Maximum:** Dependent on available RAM
+
